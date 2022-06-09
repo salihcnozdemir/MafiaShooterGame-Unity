@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MafiaAnimatorWithThompson
+  m_Controller: {fileID: 9100000, guid: 482d6ed56c77092439ec37337d35c7b3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a441c0a7d3d727a47bf07dbff68d76f3, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: a441c0a7d3d727a47bf07dbff68d76f3, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8f719f0711f74d24bb109f1e32d085f6, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 3dcecbaa93717b64faf4e826b4f447cc, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f4ee358df3464ed4b851b4243c5e3e49, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: f4ee358df3464ed4b851b4243c5e3e49, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: fb01a1d0594e0ed4d910f5bbcd7913e1, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: fb01a1d0594e0ed4d910f5bbcd7913e1, type: 3}

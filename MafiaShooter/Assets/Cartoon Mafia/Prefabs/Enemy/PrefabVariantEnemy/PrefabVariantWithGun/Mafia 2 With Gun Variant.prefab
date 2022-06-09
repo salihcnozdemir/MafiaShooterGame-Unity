@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6812305333221403628
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1656320002968630511, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453459, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_Name
+      value: Mafia 2 With Gun Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850772351090453463, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5336439821542592035, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: sfxChannel
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5336439821542592035, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: dyingAudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 5db8dcb59887b164c85e2596348b34f7, type: 3}
+    - target: {fileID: 7017688434889159123, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: rotation
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7389864462370932066, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -2228417370725966487, guid: ec6af34c81b81a44c9b5e5a4cd425eb5,
+        type: 3}
+    - target: {fileID: 8741781199395136620, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300000, guid: ec6af34c81b81a44c9b5e5a4cd425eb5, type: 3}
+    - target: {fileID: 8741781199395136620, guid: d2fd21be254949e439e3e2a11045ba39,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ec6af34c81b81a44c9b5e5a4cd425eb5, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d2fd21be254949e439e3e2a11045ba39, type: 3}
